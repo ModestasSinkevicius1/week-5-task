@@ -2,7 +2,7 @@
 
 Task was designed to review user capabilities.
 
-Project can be accesed here: 
+Project can be accesed here: https://modestassinkevicius1.github.io/week-5-task/
 
 # Features
 
